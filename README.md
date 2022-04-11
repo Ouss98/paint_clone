@@ -27,4 +27,4 @@ This class also handles the ActionEvents (i.e. selected commands).
 * `Point.java`: is used to create points of specific coordinates or get the coordinates of existing points.
 * `Shape.java`: handles common attribtes of all shapes, i.e. the origin, the color, perimeter, surface, bounding box, and drawing method.
   * `Rectangle.java`: inherits from `Shape`. Is used to create a Rectangle with specific origin, color, and dimensions.<br> * `Square.java`: inherits from `Rectangle`. Is used to create a Square with same attributes.
-  * `Ellipse.java`: Is used to create a Ellipse with specific origin, color, and dimensions.<br> * `Circle.java`: inherits from `Ellipse`. Is used to create a Circle with same attributes.
+  * `Ellipse.java`: Is used to create an Ellipse with specific origin, color, and dimensions.<br> * `Circle.java`: inherits from `Ellipse`. Is used to create a Circle with same attributes.
